@@ -1,12 +1,30 @@
 # Hi, I'm Abdulkarim 👋
+### IT Student · Web Developer · AI Enthusiast
 
-I'm an IT student at the Islamic University of Madinah with a strong interest in building modern web experiences and practical tech projects.
+I'm an IT student at the Islamic University of Madinah, passionate about crafting modern web experiences and building real-world applications that solve everyday problems.
 
-- 🎓 IT student at the Islamic University of Madinah  
-- 🌐 Interested in web development and creating useful, real‑world projects  
-- 🤖 Curious about AI and how to use it in everyday applications  
-- 🛠️ Learning and working with: HTML, CSS, JavaScript and Git/GitHub  
-- 🚀 Passionate about turning ideas into working prototypes and improving them step by step  
+### 🎓 About Me
+Currently pursuing my degree in Information Technology, with a focus on software engineering and full-stack web development. I believe in learning by building — every project is a chance to grow.
 
-I use this GitHub account to document my learning journey, share personal projects, and experiment with new technologies.  
-Feel free to explore my repositories and reach out if you’d like to collaborate or give feedback.
+### 🛠️ Tech Stack & Tools
+
+Frontend: HTML, CSS, JavaScript, React
+
+Version Control: Git & GitHub
+
+Exploring: AWS (Lambda & serverless), AI integration, UI/UX design principles
+
+### 🚀 What I'm Working On
+
+Building portfolio projects including e-commerce and delivery web apps
+
+Integrating AI features into practical web applications
+
+Deepening my knowledge of cloud computing and backend development
+
+### 🤖 Interests
+Web development · Artificial Intelligence · Cloud Computing · Open Source · UI/UX
+
+### 📫 Let's Connect
+Open to collaboration, feedback, and internship opportunities.
+(LinkedIn: https://www.linkedin.com/in/abdulkarim-aljandabi-8299ba399/)
