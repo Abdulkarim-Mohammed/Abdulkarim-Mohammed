@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Abdulkarim 👋
-### IT Student · Web Developer · AI Enthusiast
+### Web Developer · AI Enthusiast
 
 </div>
 I'm an IT student at the Islamic University of Madinah, passionate about crafting modern web experiences and building real-world applications that solve everyday problems.
@@ -25,5 +25,4 @@ Web development · UI/UX · Artificial Intelligence ·  Digital transformation
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkarim-aljandabi-8299ba399/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krem3437@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=krem3437@gmail.com)
