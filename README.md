@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Abdulkarim 👋
-### Web Developer · AI Enthusiast
+### Software Developer · AI Enthusiast
 
 </div>
 I'm an IT student at the Islamic University of Madinah, passionate about crafting modern web experiences and building real-world applications that solve everyday problems.
